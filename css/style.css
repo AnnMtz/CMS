@@ -1,0 +1,269 @@
+.login-form {
+    background-color: #1d202c;
+    padding-top: 50px;
+    align-items: center;
+    height:100vh;
+}
+
+.login-image {
+    width:100%;
+    height:100vh;
+    overflow: hidden;
+}
+
+#fondo3 {
+    height: 100vh;
+    width: 50vw; 
+    opacity: 0.9;
+}
+
+#welcome {
+    color: white;
+    opacity: 0.8;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.83;
+    letter-spacing: 1.8px;
+    text-align: left;
+    font-size: 45px;
+    font-family: "San Francisco Display Thin";
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#login {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: 0.9px;
+    text-align: left;
+    color: #e4b78d;
+    font-family: "San Francisco Display Thin";
+}
+
+#recuperar {
+    font-size: 12px;
+    line-height: 1.4;
+    color: #ffffff;
+    font-family: "San Francisco Display Thin";
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+#return {
+    font-size: 12px;
+    line-height: 1.4;
+    color: #ffffff;
+    font-family: "San Francisco Display Thin";
+    font-weight: bold;
+    letter-spacing: 1px; 
+}
+.form-control {
+    /* border-radius: 10px; */
+    width: 25%;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    /* border-radius: 25; */
+}
+
+.form-control1 {
+    width: 68%;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+.text-gofeel {
+    color:black;
+}
+
+.card-body p {
+    font-size: 11px;
+}
+#exampleInputEmail1 #exampleInputPassword1 #exampleInputEmail2{
+    display: block;
+    background: transparent;
+    font-family: Montserrat-Regular;
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.2;
+    padding: 0 25px;
+}
+
+.exampleInput {
+    font-family: "San Francisco Display Thin";
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.50;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    letter-spacing: 0.9px;
+}
+
+#buttonLogin {
+    width: 170px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: #e6b88e;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    font-family: "San Francisco Display Thin";
+    font-size: 14px;
+    letter-spacing: 1.8px;
+    border: none;
+}
+
+.btn-text {
+    color: white;
+    padding: 0;
+}
+
+.sideHeader{
+    min-width: 205px;
+    background: #1d202c;
+    color: #fff;
+    position: fixed;
+    transition: all 0.3s;
+    z-index: 999;
+    height: 100%;
+}
+
+.profile {
+    color: #fff;
+}
+
+.main-logo {
+    max-width: 100%;
+    height: auto;
+    padding-left: 36%;
+    padding-top: 10%;
+}
+
+.profile .profile-img {
+    border: 1.5px solid #e6b88e;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: 38%;
+    margin-bottom: 7%;
+    margin-top: 10%;
+    padding: 8px;
+}
+
+#admin {
+    color: #e6b88e;
+    font-family: 'San Francisco Display Ultralight';
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    margin-left: 30%
+}
+
+#notifications {
+    border: 1px solid blue;
+    
+}
+#nav-ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.side-nav {
+    background: #1d202c;
+    height: 100vh;
+    /* opacity: 0.8; */
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-item {
+    border-top: 1px solid gray;
+    color: #fff;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.6px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'San Francisco Display Ultralight', sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pink-gradient{
+    background-image: linear-gradient(to bottom, #e6b88e, #d0a47b);
+}
+
+.green-gradient {
+    background-image: linear-gradient(to bottom, #00e4c1, #53d0b4);
+}
+.img-user{
+    display: inline-block;
+}
+.card-text {
+    display: inline-block;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+
+.brokrs {
+    font-size: 11px;
+    margin-left: 32px;
+}
+
+.card-header {
+    font-family: 'San Francisco Display Bold';
+    /* text-align: left;
+    border: none; */
+}
+.card-body {
+    border-radius: 8px;
+    color: white;
+    height: 80px;
+    padding: 10px;
+}
+.img-export {
+    width: 5vw;
+    height: 8vh;
+    display: inline-block;
+    margin-top: 11px
+}
+
+.btn-export {
+    color: white;
+    font-size: 11px;
+}
+
+}
+.form-control{
+    width: 25%;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.pagination{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0;
+}
